@@ -778,7 +778,7 @@
 
 ## clash 
 
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 实例配置，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 - [eun1e/sublinkE](https://github.com/eun1e/sublinkE) - 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 - [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) - 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.
@@ -1472,6 +1472,7 @@
 
 ## go 
 
+- [432539/gpt2api](https://github.com/432539/gpt2api) - 多平台多通道 AIGC 聚合平台：GPT / GROK / 官方xAI / Adobe Firefly / pic2api / FlowMusic 多上游接入，支持上游 API 管理、模型路由、上游计费与利润、集群调度，开放 OpenAI / Gemini 兼容接口（图片/文字/视频/音乐）。最新 v3.0.1。QQ交流群382446
 - [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
 - [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
@@ -3596,6 +3597,7 @@
 
 ## react 
 
+- [432539/gpt2api](https://github.com/432539/gpt2api) - 多平台多通道 AIGC 聚合平台：GPT / GROK / 官方xAI / Adobe Firefly / pic2api / FlowMusic 多上游接入，支持上游 API 管理、模型路由、上游计费与利润、集群调度，开放 OpenAI / Gemini 兼容接口（图片/文字/视频/音乐）。最新 v3.0.1。QQ交流群382446
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
