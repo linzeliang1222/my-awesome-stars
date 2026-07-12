@@ -59,7 +59,7 @@
 
 ## Astro 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, fresh and aesthetic Astro blog theme  template, Material Design 3 Style Design, Secondary development based on Fuwari.
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计.  Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
 - [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) - Awesome Selfhosted
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [xhofe/homepage](https://github.com/xhofe/homepage) - 🏠personal homepage, inspired by ddiu.io
@@ -328,7 +328,7 @@
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [deanxv/go-geoip](https://github.com/deanxv/go-geoip) - 基于MaxMind的GeoIP库的IP信息查询服务
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [gaoyb7/115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [kubackup/kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
@@ -890,7 +890,7 @@
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 - [s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) - Awesome deals on Black Friday for Mac Apps
-- [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts
+- [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - A simple and handy overview of application shortcuts
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 - [saveweb/rss-list](https://github.com/saveweb/rss-list) - 独立博客&播客全订阅计划！
 - [wangschang/web3.0](https://github.com/wangschang/web3.0) - web3.0知识整理 web3.0知识 web3.0学习资料 web3工作 web3书籍 web3job 区块链知识 blockchain
@@ -1446,7 +1446,7 @@
 - [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。
 - [Simprint/simprint](https://github.com/Simprint/simprint) - [指纹浏览器] Simprint is an open-source fingerprint browser and programmable browser workspace designed for isolated environments, automation workflows, proxy orchestration, and browser fingerprint researc
 - [dreamlonglll/mini-term](https://github.com/dreamlonglll/mini-term) - 一个ai 终端管理工具，支持多项目、多终端布局管理
-- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, etc. Desktop app, self-hosted server, or Docker.
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [BuluBulugege/Free-BAI](https://github.com/BuluBulugege/Free-BAI) - 
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
@@ -1802,7 +1802,6 @@
 ## Vue 
 
 - [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
-- [liu-ziting/SilverEra](https://github.com/liu-ziting/SilverEra) - 来看看你的月薪在古代值几两银子？
 - [t8y2/unihub](https://github.com/t8y2/unihub) - 🚀 UniHub - 现代化的跨平台工具集应用，支持强大的插件系统 | Modern cross-platform toolkit with powerful plugin system
 - [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 - [eun1e/sublinkE](https://github.com/eun1e/sublinkE) - 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
@@ -1815,7 +1814,6 @@
 - [timwenx/SimpleAccount](https://github.com/timwenx/SimpleAccount) - [简帐]是一款专注于隐私安全的[本地记账]应用，采用uni-app框架开发.无需联网,所有数据本地存储，让[记账]变得简单高效。 适合注重隐私安全、追求简洁体验的财务记账APP
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 - [ponysb/91Writing](https://github.com/ponysb/91Writing) - 一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作
-- [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 - [chen-banxia/message-center-ui](https://github.com/chen-banxia/message-center-ui) - 一个简单的企业级消息中心，纯demo，仅供参考，前端项目，使用vue3搭建，store暂存数据，可能对你有用
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [ayuayue/ccr-config-manager](https://github.com/ayuayue/ccr-config-manager) - 
@@ -1823,7 +1821,7 @@
 - [devSlow/aigc](https://github.com/devSlow/aigc) - 
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [dr34m-cn/taosync](https://github.com/dr34m-cn/taosync) - TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；让你即刻变身成为一台冇得感情的求职机器🤖，找工作不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
