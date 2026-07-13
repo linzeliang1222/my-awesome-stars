@@ -91,7 +91,6 @@
 - [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
-- [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -430,7 +429,7 @@
 
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [jimmysuncpt/Algorithms](https://github.com/jimmysuncpt/Algorithms) - The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.
 - [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
@@ -441,7 +440,7 @@
 - [guoguo-tju/agent_java_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
@@ -465,6 +464,7 @@
 
 - [chen2he/orange-cloud](https://github.com/chen2he/orange-cloud) - Open-source native Cloudflare client for iPhone, iPad & Apple Watch — sign in with OAuth, no API tokens to paste. Native Android app (Kotlin/Compose) in development.
 - [xmtggh/VideoCalling](https://github.com/xmtggh/VideoCalling) - 局域网p2p视频聊天
+- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
 - [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 - [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
@@ -1072,6 +1072,7 @@
 ## data-structures 
 
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
@@ -1353,10 +1354,6 @@
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 
-## facebook 
-
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-
 ## fastapi 
 
 - [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
@@ -1470,7 +1467,6 @@
 
 ## go 
 
-- [432539/gpt2api](https://github.com/432539/gpt2api) - 多平台多通道 AIGC 聚合平台：GPT / GROK / 官方xAI / Adobe Firefly / pic2api / FlowMusic 多上游接入，支持上游 API 管理、模型路由、上游计费与利润、集群调度，开放 OpenAI / Gemini 兼容接口（图片/文字/视频/音乐）。最新 v3.0.1。QQ交流群382446
 - [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
 - [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
@@ -1527,7 +1523,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 
 ## golang 
 
@@ -1596,7 +1592,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 
 ## good-first-issue 
 
@@ -1844,7 +1840,7 @@
 
 ## javascript 
 
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
@@ -1909,6 +1905,7 @@
 ## jetpack-compose 
 
 - [chen2he/orange-cloud](https://github.com/chen2he/orange-cloud) - Open-source native Cloudflare client for iPhone, iPad & Apple Watch — sign in with OAuth, no API tokens to paste. Native Android app (Kotlin/Compose) in development.
+- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
@@ -2304,6 +2301,7 @@
 
 ## music 
 
+- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
@@ -2588,7 +2586,7 @@
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
 - [hoolulu/deep-research](https://github.com/hoolulu/deep-research) - 深度调研报告生成 Skill — 一条命令，十分钟出券商级深度调研报告 / Professional deep research report generation Skill · Supports 19 languages
 - [Ignareo/CV4SOE](https://github.com/Ignareo/CV4SOE) - This is a guide on how to write a resume for Chinese state-owned enterprises. 指导如何撰写面向央国企泛体制的简历
-- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。
+- [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 - [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering) - Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
@@ -2715,7 +2713,6 @@
 - [JoJoJotarou/LDOH](https://github.com/JoJoJotarou/LDOH) - LD OPEN HUB
 - [WhiteBite/kiro-manager-wb](https://github.com/WhiteBite/kiro-manager-wb) - 
 - [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统  支持API 调用 支持多渠道发件 支持用户管理 domain mail tempmail
-- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [Jackwwj619/PastePDF](https://github.com/Jackwwj619/PastePDF) - Stitch PDF just like paste images; 一个可以自定义拼接 PDF 的工具
 - [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
@@ -3000,7 +2997,6 @@
 - [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
 - [zhalice2011/ki2api](https://github.com/zhalice2011/ki2api) - RT
 - [Calcium-Ion/new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon) - 特性版 - 基于New API开发的增强版本，专注于高性能
-- [PennyJoly/NuxtPro](https://github.com/PennyJoly/NuxtPro) - NuxtPro is an ​enterprise-ready SaaS template built on Nuxt3, pre-integrated with global payment gateways (Stripe/Cream), Google OAuth, i18n routing, and SEO optimization tools. Designed for developer
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix观影平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。
 - [devSlow/aigc](https://github.com/devSlow/aigc) - 
@@ -3445,7 +3441,7 @@
 
 ## productivity 
 
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
@@ -3594,9 +3590,8 @@
 
 ## react 
 
-- [432539/gpt2api](https://github.com/432539/gpt2api) - 多平台多通道 AIGC 聚合平台：GPT / GROK / 官方xAI / Adobe Firefly / pic2api / FlowMusic 多上游接入，支持上游 API 管理、模型路由、上游计费与利润、集群调度，开放 OpenAI / Gemini 兼容接口（图片/文字/视频/音乐）。最新 v3.0.1。QQ交流群382446
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 - [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 - [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
@@ -3803,6 +3798,7 @@
 - [GALIAIS/ShiroMail](https://github.com/GALIAIS/ShiroMail) - Self-hosted temporary email platform with SMTP receiving, verification code extraction, domain management, and API access.
 - [touwaeriol/sub2apipay](https://github.com/touwaeriol/sub2apipay) - Sub2API 自托管充值支付网关 — EasyPay 易支付聚合、支付宝官方、微信官方、Stripe 四渠道支付，自动到账 | Self-hosted payment gateway for Sub2API — EasyPay, Alipay, WeChat Pay & Stripe with auto balance credit
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
+- [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -4163,7 +4159,7 @@
 
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
