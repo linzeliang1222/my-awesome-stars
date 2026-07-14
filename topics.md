@@ -322,6 +322,7 @@
 
 ## ai 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -559,6 +560,7 @@
 
 ## automation 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [Simprint/simprint](https://github.com/Simprint/simprint) - [指纹浏览器] Simprint is an open-source fingerprint browser and programmable browser workspace designed for isolated environments, automation workflows, proxy orchestration, and browser fingerprint researc
 - [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -759,7 +761,7 @@
 
 ## chrome-extension 
 
-- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - 通用 Discourse 论坛内容保存工具 - 支持全球数百个 Discourse 站点，一键保存到 Obsidian/飞书/Notion/语雀/思源笔记
+- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [Browser-bookmark-hub/Bookmark-Backup](https://github.com/Browser-bookmark-hub/Bookmark-Backup) - Bookmark Backup is a Git-style bookmark versioning, backup-history tracking, and safety-recovery extension for Chrome / Edge.
 - [PerceptivePenguin/GPT-exporter](https://github.com/PerceptivePenguin/GPT-exporter) - A browser extension for exporting ChatGPT conversations to Markdown and generating AI-powered summaries. Supports Chrome, Edge, and Firefox.
@@ -1289,6 +1291,7 @@
 
 ## electron 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
@@ -1438,6 +1441,7 @@
 
 ## generative-ai 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 ## git 
@@ -1812,7 +1816,6 @@
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [lilishop/lilishop](https://github.com/lilishop/lilishop) - Java 开源商城系统，基于 Spring Boot / Spring Cloud / Vue / Uniapp 的 B2B2C 多商户商城源码，支持小程序商城、微服务、分销、直播、秒杀、Docker 私有化部署。
@@ -2029,6 +2032,7 @@
 
 ## llm 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
@@ -2176,7 +2180,7 @@
 
 ## markdown 
 
-- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - 通用 Discourse 论坛内容保存工具 - 支持全球数百个 Discourse 站点，一键保存到 Obsidian/飞书/Notion/语雀/思源笔记
+- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
@@ -2210,7 +2214,7 @@
 
 ## material-design 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计.  Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -2429,6 +2433,7 @@
 
 ## nodejs 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
 - [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2472,7 +2477,7 @@
 
 ## obsidian 
 
-- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - 通用 Discourse 论坛内容保存工具 - 支持全球数百个 Discourse 站点，一键保存到 Obsidian/飞书/Notion/语雀/思源笔记
+- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) - sync obsidian notes to xlog.app
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
@@ -2630,7 +2635,7 @@
 - [zhu1090093659/claude-code-cookbook](https://github.com/zhu1090093659/claude-code-cookbook) - A bilingual teaching guide to Claude Code, organized as a readable   learning path covering architecture, execution flow, tool systems,   and the real writing process behind the guide.
 - [CloudWide851/easy-agent](https://github.com/CloudWide851/easy-agent) - easy-agent is a white-box Python foundation for building agent systems that you can actually inspect, test, and extend.
 - [hitmux/HitCC](https://github.com/hitmux/HitCC) - Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.197
-- [Arron196/CLIProxyAPI](https://github.com/Arron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
+- [BenjaminAaron196/CLIProxyAPI](https://github.com/BenjaminAaron196/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [james-6-23/codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 - [lili-luo/aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) - 
 - [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
@@ -3268,6 +3273,7 @@
 - [linzeliang1222/site-status](https://github.com/linzeliang1222/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
 - [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+- [miyogift/miyo-gift](https://github.com/miyogift/miyo-gift) - Create private, personalized digital gifts with words, photos, videos, and music—made to be opened, kept, and revisited.
 - [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
@@ -3914,7 +3920,6 @@
 - [eacdy/spring-cloud-yes](https://github.com/eacdy/spring-cloud-yes) - 基于Spring Cloud的快速开发脚手架&最佳实践总结
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
 - [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
 
@@ -3929,7 +3934,6 @@
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [lilishop/lilishop](https://github.com/lilishop/lilishop) - Java 开源商城系统，基于 Spring Boot / Spring Cloud / Vue / Uniapp 的 B2B2C 多商户商城源码，支持小程序商城、微服务、分销、直播、秒杀、Docker 私有化部署。
@@ -4046,7 +4050,7 @@
 
 ## tailwindcss 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计.  Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !
@@ -4157,6 +4161,7 @@
 
 ## typescript 
 
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
@@ -4224,7 +4229,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
-- [xcyeye/aurora-blog](https://github.com/xcyeye/aurora-blog) - 🔥Aurora博客是一个基于Spring Cloud Alibaba的多人微服务博客项目，前台和后台界面非常漂亮，特征：邮箱链接验证、账户锁定等邮件功能。前端技术：TypeScript + Vue3 + Pinia + NaiveUi，后端技术：Spring Cloud Alibaba + RabbitMq + Seata + Oauth2。
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [biaochenxuying/blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) - Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示
 
@@ -4254,7 +4258,7 @@
 
 ## userscript 
 
-- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - 通用 Discourse 论坛内容保存工具 - 支持全球数百个 Discourse 站点，一键保存到 Obsidian/飞书/Notion/语雀/思源笔记
+- [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [urzeye/tampermonkey-scripts](https://github.com/urzeye/tampermonkey-scripts) - AI深度优化脚本与多场景优化工具：gemini helper，搜书吧免积分下载
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
