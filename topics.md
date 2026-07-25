@@ -769,7 +769,7 @@
 
 - [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- [Browser-bookmark-hub/Bookmark-Backup](https://github.com/Browser-bookmark-hub/Bookmark-Backup) - Bookmark Backup is a Git-style bookmark versioning, backup-history tracking, and safety-recovery extension for Chrome / Edge.
+- [Browser-bookmark-hub/Bookmark-Backup](https://github.com/Browser-bookmark-hub/Bookmark-Backup) - Bookmark-Backup is a Git-style bookmark versioning and recovery extension for Chrome and Edge, with web archiving support.
 - [PerceptivePenguin/GPT-exporter](https://github.com/PerceptivePenguin/GPT-exporter) - A browser extension for exporting ChatGPT conversations to Markdown and generating AI-powered summaries. Supports Chrome, Edge, and Firefox.
 - [yeahhe365/Gemini-Nexus](https://github.com/yeahhe365/Gemini-Nexus) - Gemini Nexus 是一款面向浏览器场景的 AI 助手扩展，集成 Gemini Web、Gemini API 与 OpenAI 兼容接口，支持网页上下文、图像处理、工具调用和 MCP 浏览器控制。
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
@@ -2703,7 +2703,7 @@
 - [yml2213/Y-Nav](https://github.com/yml2213/Y-Nav) - 托管在cloudflare上的轻量化导航
 - [FredericMN/Coder-Codex-Gemini](https://github.com/FredericMN/Coder-Codex-Gemini) - CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode
 - [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) - 自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
-- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [chun1617/Kir-Manager](https://github.com/chun1617/Kir-Manager) - 
 - [xLmiler/test_band](https://github.com/xLmiler/test_band) - 
