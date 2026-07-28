@@ -198,6 +198,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [rails](#rails)
@@ -2600,6 +2601,7 @@
 
 ## others 
 
+- [tuxity/navicat-premium-reset-trial](https://github.com/tuxity/navicat-premium-reset-trial) - Reset macOS Navicat Premium 15/16/17 app remaining trial days
 - [ddcat-ai/open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) - 面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。
 - [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - Native multi-data-source DB client — ~30MB, AI & MCP ready. Not Electron. 丨原生轻量数据库客户端（Go + Wails + React，~30MB）：SQL/缓存/向量/消息/国产库，内置 AI 与 MCP，告别 Electron。
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
@@ -3599,6 +3601,10 @@
 ## qt 
 
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+## quant 
+
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 
 ## quantitative-finance 
 
