@@ -1179,7 +1179,7 @@
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
@@ -2300,7 +2300,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
@@ -2349,7 +2349,7 @@
 - [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [yulichang/mybatis-plus-join](https://github.com/yulichang/mybatis-plus-join) - 支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供left join、right join等操作
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3032,7 +3032,7 @@
 - [zhalice2011/ki2api](https://github.com/zhalice2011/ki2api) - RT
 - [Calcium-Ion/new-api-horizon](https://github.com/Calcium-Ion/new-api-horizon) - 特性版 - 基于New API开发的增强版本，专注于高性能
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix观影平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。
+- [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix观影平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影，影视。
 - [devSlow/aigc](https://github.com/devSlow/aigc) - 
 - [yhan219/navicat_reset_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
 - [wizardcode/world-area](https://github.com/wizardcode/world-area) - 提供sql，csv，json格式的世界位置信息数据下载，包含洲，国家，省份（州），区（市），县，美国又分了几大区域，提供中文，英文，编码等相关信息，各级关系链式存储。
@@ -3300,7 +3300,7 @@
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
 - [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 - [miyogift/miyo-gift](https://github.com/miyogift/miyo-gift) - Create private, personalized digital gifts with words, photos, videos, and music—made to be opened, kept, and revisited.
-- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
+- [netptop/siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 - [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
@@ -3445,7 +3445,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -3828,7 +3828,7 @@
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
