@@ -59,6 +59,7 @@
 
 ## Astro 
 
+- [solyi-09/solyi-blog](https://github.com/solyi-09/solyi-blog) - 
 - [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
 - [songtianlun/selfhost-hub](https://github.com/songtianlun/selfhost-hub) - Awesome Selfhosted
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -329,7 +330,6 @@
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [gaoyb7/115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
-- [dqzboy/BACK_SYNC_GITHUB](https://github.com/dqzboy/BACK_SYNC_GITHUB) - 🔥🔥自动化备份重要数据到GitHub仓库
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [kubackup/kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
 - [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
@@ -673,6 +673,8 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [DeepLifeStudio/DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 - [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1183,7 +1185,6 @@
 - [poliva/interactive-feedback-mcp](https://github.com/poliva/interactive-feedback-mcp) - Interactive User Feedback MCP
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
-- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -1325,7 +1326,7 @@
 - [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering) - Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 - [FakeOAI/tokens](https://github.com/FakeOAI/tokens) - Tokens管理平台，调度管理号池将各大国外AI平台的模型转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用
 - [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
-- [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, 
+- [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps u
 - [SeemSeam/claude_code_autoflow](https://github.com/SeemSeam/claude_code_autoflow) - 
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。
 - [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
@@ -1389,7 +1390,6 @@
 ## Svelte 
 
 - [GoodiesHQ/headscale-admin](https://github.com/GoodiesHQ/headscale-admin) - Admin Web Interface for juanfont/headscale
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 
@@ -1444,6 +1444,7 @@
 
 ## TypeScript 
 
+- [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [ddcat-ai/open-ai-canvas](https://github.com/ddcat-ai/open-ai-canvas) - 面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。
 - [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - Native multi-data-source DB client — ~30MB, AI & MCP ready. Not Electron. 丨原生轻量数据库客户端（Go + Wails + React，~30MB）：SQL/缓存/向量/消息/国产库，内置 AI 与 MCP，告别 Electron。
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
@@ -1831,6 +1832,7 @@
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [ayuayue/ccr-config-manager](https://github.com/ayuayue/ccr-config-manager) - 
 - [devSlow/aigc](https://github.com/devSlow/aigc) - 
+- [dqzboy/BACK_SYNC_GITHUB](https://github.com/dqzboy/BACK_SYNC_GITHUB) - 🔥🔥自动化备份重要数据到GitHub仓库
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
