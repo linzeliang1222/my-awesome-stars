@@ -323,7 +323,7 @@
 
 ## agents 
 
-- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java 底层 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on a Java backend.
+- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -579,7 +579,7 @@
 
 - [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
 - [Simprint/simprint](https://github.com/Simprint/simprint) - [指纹浏览器] Simprint is an open-source fingerprint browser and programmable browser workspace designed for isolated environments, automation workflows, proxy orchestration, and browser fingerprint researc
-- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java 底层 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on a Java backend.
+- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [openakita/openakita](https://github.com/openakita/openakita) - An open-source AI assistant framework with skills and agent architecture
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
@@ -893,7 +893,7 @@
 - [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps u
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-- [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai) - A third-party Perplexity MCP/REST API implementation that leverages Pro accounts to provide unlimited quota for reasoning and deep search capabilities. Includes multi-account support.
+- [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai) - A third-party Perplexity MCP/REST API implementation that leverages Pro account Pool to provide unlimited quota for ask and deep search capabilities.
 - [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 - [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan) - skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skills. Before installing third-party Skills, use this tool for security review to effectively prevent m
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1834,7 +1834,7 @@
 ## java 
 
 - [guoguo-tju/agent_java_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
-- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java 底层 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on a Java backend.
+- [Stonewuu/ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java & agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java & & agentscope 2.0.
 - [zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip) - 👑 qqzeng-ip/QZDB 极速IP解析引擎 | Next-gen High-Performance IP Lookup Engine (IPv4 & IPv6). Supports LPM, zero-allocation SDKs (C/Rust/Go/Java/C#/NodeJS/Python/PHP) & DBMS scripts.
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 
@@ -2285,7 +2285,7 @@
 - [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
 - [burugo/one-mcp](https://github.com/burugo/one-mcp) - A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai) - A third-party Perplexity MCP/REST API implementation that leverages Pro accounts to provide unlimited quota for reasoning and deep search capabilities. Includes multi-account support.
+- [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai) - A third-party Perplexity MCP/REST API implementation that leverages Pro account Pool to provide unlimited quota for ask and deep search capabilities.
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -2773,7 +2773,7 @@
 - [nineyuanz/kiro2api](https://github.com/nineyuanz/kiro2api) - 
 - [Anarkh-Lee/nginx-flow](https://github.com/Anarkh-Lee/nginx-flow) - 一款功能强大的 Nginx 配置文件可视化编辑工具
 - [ddcat666/business-gemini-pool](https://github.com/ddcat666/business-gemini-pool) - Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）
-- [superboyyy/xianyu_spider](https://github.com/superboyyy/xianyu_spider) - 闲鱼爬虫，基于闲鱼网页端开发，使用 FastAPI 构建的闲鱼商品搜索接口，支持异步并发请求和自动化数据去重存储。
+- [superboyyy/xianyu_spider](https://github.com/superboyyy/xianyu_spider) - 闲鱼爬虫，基于闲鱼网页端开发，使用 FastAPI 构建的闲鱼商品搜索接口，支持异步并发请求和自动化数据去重存储。现已支持登录。
 - [ddCat-main/ai-goofish](https://github.com/ddCat-main/ai-goofish) - 一个功能强大的闲鱼商品监控系统，能够根据用户设定的关键词自动爬取商品信息，使用AI进行智能分析和筛选，并通过邮件等方式实时通知用户感兴趣的商品。
 - [Lavender3533/kiro2Api](https://github.com/Lavender3533/kiro2Api) - 
 - [dext7r/KiroGate](https://github.com/dext7r/KiroGate) - issues pr 请去上游仓库
@@ -4214,6 +4214,7 @@
 
 ## terminal 
 
+- [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [fy0/CodeKanban](https://github.com/fy0/CodeKanban) - Manage all your terminals and ai coding agents from one unified page.
 - [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) - Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
 - [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
