@@ -700,6 +700,7 @@
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！
@@ -1725,7 +1726,6 @@
 - [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -1817,6 +1817,7 @@
 ## Vue 
 
 - [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
+- [liu-ziting/SilverEra](https://github.com/liu-ziting/SilverEra) - 来看看你的月薪在古代值几两银子？
 - [t8y2/unihub](https://github.com/t8y2/unihub) - 🚀 UniHub - 现代化的跨平台工具集应用，支持强大的插件系统 | Modern cross-platform toolkit with powerful plugin system
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
@@ -1831,6 +1832,7 @@
 - [timwenx/SimpleAccount](https://github.com/timwenx/SimpleAccount) - [简帐]是一款专注于隐私安全的[本地记账]应用，采用uni-app框架开发.无需联网,所有数据本地存储，让[记账]变得简单高效。 适合注重隐私安全、追求简洁体验的财务记账APP
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 - [ponysb/91Writing](https://github.com/ponysb/91Writing) - 一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作
+- [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 - [chen-banxia/message-center-ui](https://github.com/chen-banxia/message-center-ui) - 一个简单的企业级消息中心，纯demo，仅供参考，前端项目，使用vue3搭建，store暂存数据，可能对你有用
 - [RipperTs/claude-code-relay](https://github.com/RipperTs/claude-code-relay) - 自建Claude code镜像服务，支持多账号切换、 支持任意Claude Console的接入、能有效规避封号，OAuth集成可快捷添加账号池。
 - [ayuayue/ccr-config-manager](https://github.com/ayuayue/ccr-config-manager) - 
