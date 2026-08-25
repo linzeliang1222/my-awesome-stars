@@ -315,7 +315,7 @@
 
 ## agent-skills 
 
-- [worldwonderer/drama-skills](https://github.com/worldwonderer/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
+- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -530,6 +530,7 @@
 
 ## api 
 
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [iBUHub/AIStudioToAPI](https://github.com/iBUHub/AIStudioToAPI) - A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
@@ -622,6 +623,7 @@
 ## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 653 个。
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -728,6 +730,7 @@
 
 - [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) - OpenCodex is a middleware layer for Codex/ChatGPT Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable fo
 - [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool) - 有啥问题抖音私我，我后面攒起来更新
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
@@ -875,7 +878,7 @@
 ## claude-code 
 
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-- [worldwonderer/drama-skills](https://github.com/worldwonderer/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
+- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
 - [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
 - [sk-ruban/notchi](https://github.com/sk-ruban/notchi) - notch app for claude code & codex
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
@@ -1486,6 +1489,7 @@
 ## generative-ai 
 
 - [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 ## git 
@@ -2586,6 +2590,7 @@
 - [canarybyte/veridrop](https://github.com/canarybyte/veridrop) - AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。
 - [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool) - 有啥问题抖音私我，我后面攒起来更新
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
@@ -2774,7 +2779,7 @@
 - [qxd-ljy/Gemini-Link-System](https://github.com/qxd-ljy/Gemini-Link-System) - 一个将 Gemini Business API 转换为 OpenAI 兼容接口的网关服务，支持多账号负载均衡、API 密钥管理、图片生成和思考过程显示等功能。
 - [qy527145/openai_token](https://github.com/qy527145/openai_token) - 用于获取Openai / ChatGPT 相关的token
 - [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
-- [Mag1cFall/Gemini-Web2API](https://github.com/Mag1cFall/Gemini-Web2API) - 将 Google Gemini Web 转换为 OpenAI 兼容的 API
+- [Mag1cFall/Gemini-Web2API](https://github.com/Mag1cFall/Gemini-Web2API) - 将 Google Gemini Web 转换为 OpenAI、Claude 和 Gemini 兼容 API
 - [jacklilyhello/cloudflare-workers-shortlink](https://github.com/jacklilyhello/cloudflare-workers-shortlink) - A simple short URL service built on Cloudflare Workers + KV
 - [tianjiangqiji/Gemini-Business-OpenAi](https://github.com/tianjiangqiji/Gemini-Business-OpenAi) - Gemini Business & OpenAI 临时邮箱工具
 - [nineyuanz/kiro2api](https://github.com/nineyuanz/kiro2api) - 
@@ -3564,7 +3569,8 @@
 
 ## prompt-engineering 
 
-- [worldwonderer/drama-skills](https://github.com/worldwonderer/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
+- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
+- [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [JoeyLearnsToCode/prompt-studio](https://github.com/JoeyLearnsToCode/prompt-studio) - 提示词分支、版本式管理工具 | Prompt branching and version management tool
 
 ## publishing 
