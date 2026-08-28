@@ -2654,6 +2654,7 @@
 
 ## others 
 
+- [Blackwindow6/linuxdo-wecom-ui](https://github.com/Blackwindow6/linuxdo-wecom-ui) - Linux DO 企业微信 5.x IM 外观油猴脚本
 - [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) - 用于检测api是否路由真实gpt5.6模型
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 
 - [solyi-09/solyi-blog-bak](https://github.com/solyi-09/solyi-blog-bak) - 
@@ -2676,7 +2677,7 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [NorthSecond/Auto_Typst_Resume_Template](https://github.com/NorthSecond/Auto_Typst_Resume_Template) - 中英双语 Typst 简历模板 | A Typst bilingual (Chinese/English) resume template
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
-- [hoolulu/deep-research](https://github.com/hoolulu/deep-research) - 深度调研报告生成 Skill — 一条命令，十分钟出券商级深度调研报告 / Professional deep research report generation Skill · Supports 19 languages
+- [hoolulu/deep-research](https://github.com/hoolulu/deep-research) - Professional deep research report generation Skill — one command, ten minutes, broker-grade deep research / 深度调研报告生成 Skill — 一条命令，十分钟出券商级深度调研报告
 - [Ignareo/CV4SOE](https://github.com/Ignareo/CV4SOE) - This is a guide on how to write a resume for Chinese state-owned enterprises. 指导如何撰写面向央国企泛体制的简历
 - [Mochocyang/QMAI](https://github.com/Mochocyang/QMAI) - 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。官网：https://www.qmai.pro
 - [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
@@ -2692,7 +2693,7 @@
 - [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
 - [chaogei/windsurf-account-manager-simple](https://github.com/chaogei/windsurf-account-manager-simple) - 
 - [GALIAIS/k_i_r_o-register](https://github.com/GALIAIS/k_i_r_o-register) - 
-- [assast/outlookEmail](https://github.com/assast/outlookEmail) - 
+- [assast/outlookEmail](https://github.com/assast/outlookEmail) - outlookEmail 支持 Outlook/Hotmail、Gmail、QQ、163、126、Yahoo、阿里邮箱以及自定义 IMAP 邮箱，同时集成 GPTMail、DuckMail、Cloudflare Temp Email 多提供商临时邮箱能力
 - [petehsu/KiroProxy](https://github.com/petehsu/KiroProxy) - 用于开发者工作流的 Kiro 接入兼容层与请求路由服务Open-source compatibility and routing layer for developer workflows.
 - [BuluBulugege/Free-BAI](https://github.com/BuluBulugege/Free-BAI) - 
 - [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API) - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
@@ -2769,7 +2770,7 @@
 - [hasnainshahidx/turnstile_solver](https://github.com/hasnainshahidx/turnstile_solver) - A Python-based solver that finds, clicks, and solves Cloudflare Turnstile CAPTCHA using Selenium and Chrome DevTools Protocol (CDP) — supports both headless and GUI modes.
 - [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver) - Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 - [winmin/evil-opencode](https://github.com/winmin/evil-opencode) - The open source coding agent. (Unleashed 、Removing LLM safety guardrails）
-- [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
+- [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 - [anyme123/Any-code](https://github.com/anyme123/Any-code) - 
 - [Cedriccmh/mcp-cursearch](https://github.com/Cedriccmh/mcp-cursearch) - A MCP built from Cursor Codebase Indexer
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
