@@ -1472,7 +1472,6 @@
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
 - [storyicon/grbac](https://github.com/storyicon/grbac) - 👮 grbac is a fast, elegant and concise RBAC(role-based access control) framework
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
@@ -2673,7 +2672,7 @@
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 - [Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research) - 
 - [binjie09/ChatMux](https://github.com/binjie09/ChatMux) - A self-hosted SSH / tmux workspace client. Connect to your own Gateway from the browser, desktop, or mobile app, restore remote tmux sessions, inspect historical context, and keep working in a real te
-- [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - TokenRouter is the next generation LLM gateway
+- [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - tokenrouter is the next generation llm gateway
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [NorthSecond/Auto_Typst_Resume_Template](https://github.com/NorthSecond/Auto_Typst_Resume_Template) - 中英双语 Typst 简历模板 | A Typst bilingual (Chinese/English) resume template
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
