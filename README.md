@@ -232,7 +232,7 @@
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [binjie09/ChatMux](https://github.com/binjie09/ChatMux) - A self-hosted SSH / tmux workspace client. Connect to your own Gateway from the browser, desktop, or mobile app, restore remote tmux sessions, inspect historical context, and keep working in a real te
-- [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - TokenRouter is the next generation LLM gateway
+- [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - tokenrouter is the next generation llm gateway
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
 - [nianzs/sub2api](https://github.com/nianzs/sub2api) - 由于官方维护kiro渠道的意愿不高, 因此此仓库维护了一个与官方分支长期稳定合并的Kiro支持fork。支持模拟缓存! 分组可调模拟比例,已支持 opus5, gpt5.6
 - [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
@@ -1061,7 +1061,6 @@
 - [Theyka/Turnstile-Solver](https://github.com/Theyka/Turnstile-Solver) - Python-based turnstile solver using the patchright library, featuring multi-threaded execution, API integration, and support for different browsers.
 - [haddock-development/claude-reflect-system](https://github.com/haddock-development/claude-reflect-system) - Continual Learning & Self-improving skills system for Claude Code - learn from corrections, never repeat mistakes
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
-- [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 work
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [TullyMonster/exa-pool-mcp](https://github.com/TullyMonster/exa-pool-mcp) - A lightweight MCP server that encapsulates the Exa Pool API as a toolkit for AI assistants to call.
 - [ccpopy/gemini-chat](https://github.com/ccpopy/gemini-chat) - web2api
@@ -1272,6 +1271,7 @@
 - [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
 - [buyi06/tgstate-rust](https://github.com/buyi06/tgstate-rust) - Telegram 文件/图床管理面板（FastAPI + Web UI），一键 Docker 部署，支持上传、分享、下载与删除。
 - [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
+- [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 work
 - [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
 - [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 - [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
