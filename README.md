@@ -386,7 +386,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -663,7 +663,6 @@
 - [ghuntley/amazon-kiro.kiro-agent-source-code-analysis](https://github.com/ghuntley/amazon-kiro.kiro-agent-source-code-analysis) - 
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人 - 协助找工作的工具
-- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
@@ -1005,7 +1004,7 @@
 ## Python 
 
 - [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
-- [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) - 用于检测api是否路由真实gpt5.6模型
+- [chen-006/meow-llm-detector](https://github.com/chen-006/meow-llm-detector) - 用于检测ai模型是否真实
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 
 - [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent revie
@@ -1040,7 +1039,7 @@
 - [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) - Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app
 - [kaima2022/ABCard](https://github.com/kaima2022/ABCard) - 
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
-- [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 驱动的中文小说创作助手。三层递进式智能问答、跨会话偏好记忆、中断续写、每章必留悬念钩子、自动校验修复。长篇小说一次性全稿无痛完成。    ⚡ 稳定写作，推荐 非线智能 API nonelinear.com 联系客服报 [写小说] 享20元额度
+- [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 驱动的中文小说创作助手。三层递进式智能问答、跨会话偏好记忆、中断续写、每章必留悬念钩子、自动校验修复。长篇小说一次性全稿无痛完成
 - [Simpleyyt/ai-manus](https://github.com/Simpleyyt/ai-manus) - AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 - [Jielumoon/Rainyun-Qiandao](https://github.com/Jielumoon/Rainyun-Qiandao) - 三改版雨云签到工具的docker版
 - [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) - 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计
@@ -1645,6 +1644,7 @@
 - [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Better Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 - [blinko-space/blinko-snap](https://github.com/blinko-space/blinko-snap) - Blinko's desktop assistance software
 - [wsj-br/duplistatus](https://github.com/wsj-br/duplistatus) - Web dashboard for monitoring Duplicati backups with overdue alerts, notifications, and backup logging.
+- [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Docker等部署方式
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Innei/exif-tools](https://github.com/Innei/exif-tools) - A modern web application for reading, editing, and transferring EXIF metadata between images.
