@@ -918,7 +918,7 @@
 - [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [4xian/claude-codex-api](https://github.com/4xian/claude-codex-api) - ccapi - A management tool for quickly switching Claude Code and Codex configurations | 一个Claude Code 和 Codex 配置管理工具，一键切换多个中转站API配置；一键切换系统环境变量；一键测试API延迟；一键测试API有效性；自动择优线路切换与国际化支持。
 - [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [zsio/claude-code-hub](https://github.com/zsio/claude-code-hub) - 一个现代化的 Claude Code API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
@@ -2126,7 +2126,7 @@
 - [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
-- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
+- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users.
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
@@ -2313,7 +2313,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
+- [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users.
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
@@ -2620,7 +2620,7 @@
 - [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
 - [faithleysath/comander](https://github.com/faithleysath/comander) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
@@ -2683,7 +2683,6 @@
 - [byJoey/cfy](https://github.com/byJoey/cfy) - 
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 - [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
-- [Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research) - 
 - [binjie09/ChatMux](https://github.com/binjie09/ChatMux) - A self-hosted SSH / tmux workspace client. Connect to your own Gateway from the browser, desktop, or mobile app, restore remote tmux sessions, inspect historical context, and keep working in a real te
 - [TokenFlux/TokenRouter](https://github.com/TokenFlux/TokenRouter) - tokenrouter is the next generation llm gateway
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -3600,6 +3599,7 @@
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research) - Research tooling for evaluating SSO referral-flow abuse resistance, quota behavior, and activation telemetry in authorized test environments.
 - [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 - [canarybyte/veridrop](https://github.com/canarybyte/veridrop) - AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
