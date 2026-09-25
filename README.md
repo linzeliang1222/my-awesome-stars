@@ -1052,7 +1052,7 @@
 - [aahl/mcp-vods](https://github.com/aahl/mcp-vods) - 📺 MCP Server for Binge-watch / MoonTV / LunaTV. 一个用于追剧/追番的MCP服务器，为AI提供搜索影视播放地址的能力，并支持在小米电视上直接播放
 - [FredericMN/Coder-Codex-Gemini](https://github.com/FredericMN/Coder-Codex-Gemini) - CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode
 - [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) - 自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。
-- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Postg
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, c
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。
 - [xLmiler/test_band](https://github.com/xLmiler/test_band) - 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
@@ -1447,7 +1447,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [ProxyShard/ShardBrowser](https://github.com/ProxyShard/ShardBrowser) - Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 152 (WebGL / WebGPU / Client Hints / fonts /
-- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows fo
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [Ravinou/borgwarehouse](https://github.com/Ravinou/borgwarehouse) - A fast and modern WebUI for a BorgBackup's central repository server.
 - [GALIAIS/ShiroMail](https://github.com/GALIAIS/ShiroMail) - Self-hosted temporary email platform with SMTP receiving, verification code extraction, domain management, and API access.
