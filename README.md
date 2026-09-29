@@ -70,7 +70,6 @@
 ## Batchfile 
 
 - [isc30/ryzen-gpu-passthrough-proxmox](https://github.com/isc30/ryzen-gpu-passthrough-proxmox) - Get the Ryzen processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included.
-- [FongMi/Release](https://github.com/FongMi/Release) - 
 - [abdullah-erturk/RustDesk-ID-Server-Changer](https://github.com/abdullah-erturk/RustDesk-ID-Server-Changer) - RustDesk ID Changer
 
 ## Blade 
@@ -224,7 +223,7 @@
 
 ## Go 
 
-- [ranxi2001/sub2api](https://github.com/ranxi2001/sub2api) - 基于 Sub2API 由多位站长持续维护的独立分支,更加适合中转站长使用，按需同步上游更新，扩展实用功能并发布生产版本。
+- [ranxi2001/sub2api](https://github.com/ranxi2001/sub2api) - 基于 Sub2API 由多位站长持续维护的独立分支,更加适合中转站长使用，高频更新+同步上游，扩展实用功能并发布生产版本。
 - [446599/ccodex-rotate](https://github.com/446599/ccodex-rotate) - Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.
 - [GMWalletApp/epusdt](https://github.com/GMWalletApp/epusdt) - 开源优雅的跨平台收款网关 GM Pay(formerly known as EPUSDT)
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
@@ -422,7 +421,7 @@
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -589,7 +588,6 @@
 - [acheng-byte/discourse-saver](https://github.com/acheng-byte/discourse-saver) - Discourse 论坛帖子保存工具 - 一键保存到 Obsidian/飞书/Notion/WebDAV/百度网盘，支持飞书云文档，自动按论坛域名分文件夹
 - [lili-luo/aicoding-cookbook](https://github.com/lili-luo/aicoding-cookbook) - 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [africa1207/AWS-BuildID-Auto-For-Ext](https://github.com/africa1207/AWS-BuildID-Auto-For-Ext) - 
 - [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) - 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！
 - [lulistart/Kiro2api-Node](https://github.com/lulistart/Kiro2api-Node) - 
@@ -697,7 +695,6 @@
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 - [RainyGao-GitHub/DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！
@@ -882,6 +879,7 @@
 - [woshiqiang1/awesome-javascript-ui-kit-library](https://github.com/woshiqiang1/awesome-javascript-ui-kit-library) - 😎 An awesome list of high-quality JavaScript UI-kit libraries
 - [boyazuo/awesome-admin](https://github.com/boyazuo/awesome-admin) - 🌟 精选优秀中后台管理系统，包括完整系统、框架模板、脚手架等，以供开发借鉴、学习研究。
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 
+- [FongMi/Release](https://github.com/FongMi/Release) - 
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
@@ -1721,6 +1719,7 @@
 - [liaoliao666/v2ex](https://github.com/liaoliao666/v2ex) - V2EX 好看的第三方客户端，原生 App，支持夜间模式。
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
