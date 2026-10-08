@@ -2944,7 +2944,6 @@
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 - [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  数据打标请联系wx glidea123 (数万并发随时狂飙)
 - [tibbar213/sora-downloader](https://github.com/tibbar213/sora-downloader) - Sora 视频无水印链接提取器
-- [16188/itcry-woo-pay](https://github.com/16188/itcry-woo-pay) - 一个为WooCommerce重构和修复的免签约支付插件，支持码支付(Codepay)和易支付(Easypay)。网站：https://itcry.com
 - [move132/kiira2api](https://github.com/move132/kiira2api) - 免费的  Nano Banana 🔥，Sora 2  ，Veo 3 ， Midjourney
 - [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) - WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
 - [samni728/edgetts-cloudflare-workers-webui](https://github.com/samni728/edgetts-cloudflare-workers-webui) - 这是一个部署在 Cloudflare Workers 上的高性能文本转语音（TTS）代理服务。它巧妙地将微软 Edge 强大且自然的语音合成服务，封装成了一个兼容 OpenAI API 格式的接口。这使得开发者可以无缝地将各种现有应用对接到这个免费、高质量的 TTS 服务上。
