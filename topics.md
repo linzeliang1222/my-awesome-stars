@@ -2698,6 +2698,7 @@
 
 ## others 
 
+- [huangserva/wechat-radar](https://github.com/huangserva/wechat-radar) - 
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [ranxi2001/sub2api](https://github.com/ranxi2001/sub2api) - 基于 Sub2API 由多位站长持续维护的独立分支,更加适合中转站长使用，高频更新+同步上游，扩展实用功能并发布生产版本。
 - [446599/ccodex-rotate](https://github.com/446599/ccodex-rotate) - Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows.
@@ -4312,7 +4313,6 @@
 
 ## twitter 
 
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## typescript 
