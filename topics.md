@@ -822,7 +822,7 @@
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人 - 协助找工作的工具
 - [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
@@ -1423,7 +1423,7 @@
 
 ## english 
 
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
 ## eslint 
@@ -2158,7 +2158,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users.
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
@@ -2657,7 +2657,7 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -2951,7 +2951,6 @@
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Deng-m1/novel-fanqie-reader](https://github.com/Deng-m1/novel-fanqie-reader) - 番茄小说爬取和可视化系统，修改作为内部服务
-- [Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation) - 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [tianchangNorth/athena](https://github.com/tianchangNorth/athena) - 
 - [TheSmallHanCat/sora2api](https://github.com/TheSmallHanCat/sora2api) - 逆向账号池，Q交流群1073237297
@@ -3037,7 +3036,6 @@
 - [byebye-code/vscode-extension](https://github.com/byebye-code/vscode-extension) - vscode 的 88code 剩余积分及 codex 余额显示插件
 - [zhuchenyu2008/RSS-AI](https://github.com/zhuchenyu2008/RSS-AI) - Summarize RSS feeds with AI
 - [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
-- [Norsico/Openai-Auto-Register](https://github.com/Norsico/Openai-Auto-Register) - 一个使用IMAP邮箱实现批量注册某些平台账号（如谷歌，OpenAI等）和管理账号的软件
 - [brown-sussy/SigmaDev](https://github.com/brown-sussy/SigmaDev) - 🚀 SigmaDev | A new generation of vibe coding VSCode extension, the lightest plug-in of all AI extension
 - [stsix/leaflow-auto-beta](https://github.com/stsix/leaflow-auto-beta) - 
 - [eraycc/leaflow-auto](https://github.com/eraycc/leaflow-auto) - leaflow 多账户 自动签到 控制面板 支持 docker 部署
@@ -3770,7 +3768,7 @@
 - [TinsFox/poketto-stack](https://github.com/TinsFox/poketto-stack) - A boilerplate built with shadcn/ui for rapid development of modern web applications.
 - [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 - [songquanpeng/gin-template](https://github.com/songquanpeng/gin-template) - 用于 Gin & React 项目的模板. Template for Gin & React projects.
-- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 - [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
