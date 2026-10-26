@@ -436,7 +436,7 @@
 ## Go Template 
 
 - [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) - WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 653 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 656 个。
 
 ## HTML 
 
@@ -566,6 +566,7 @@
 
 ## JavaScript 
 
+- [dofastted/vm2api](https://github.com/dofastted/vm2api) - vm2api 使用虚拟机完全拟真方案的订阅转api
 - [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace) - 主动探测模型归因
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [Blackwindow6/linuxdo-wecom-ui](https://github.com/Blackwindow6/linuxdo-wecom-ui) - Linux DO 企业微信 5.x IM 外观油猴脚本
@@ -657,7 +658,6 @@
 - [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
 - [NightYuYyy/ccr-desktop](https://github.com/NightYuYyy/ccr-desktop) - Claude Code Router cross-platform desktop (Electron+Vue3)
 - [malaohu/forsaken-mail](https://github.com/malaohu/forsaken-mail) - a self-hosted disposable mail service
-- [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
 - [ghuntley/amazon-kiro.kiro-agent-source-code-analysis](https://github.com/ghuntley/amazon-kiro.kiro-agent-source-code-analysis) - 
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人 - 协助找工作的工具
@@ -929,7 +929,6 @@
 - [i2ii/i](https://github.com/i2ii/i) - 
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [jianghui-galaxy/Interview-Notebook](https://github.com/jianghui-galaxy/Interview-Notebook) - https://github.com/CyC2018/Interview-Notebook
@@ -1000,6 +999,7 @@
 
 ## Python 
 
+- [DUNHKpcc/Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian) - Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then provi
 - [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。
 - [stkoecn/im-mcp](https://github.com/stkoecn/im-mcp) - Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search
 - [latentide/wechat-extract-skill](https://github.com/latentide/wechat-extract-skill) - 把本机微信聊天记录取出来交给 Agent：导出/检索私聊、群聊、联系人与群成员。自带可解微信 4.1+ 的工具本体（上游公开分支只有已失效的内存扫描）。
@@ -1229,6 +1229,7 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [ysyisyourbrother/SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook) - 本项目分享了中山大学计算机学院本科和研究生阶段的课程资料、笔记、期末考试卷和其他实用的相关资源。希望对同学们的学习有所帮助❤️，如果喜欢记得给个star🌟
 
@@ -1252,7 +1253,7 @@
 - [diodeme/Gold-Band](https://github.com/diodeme/Gold-Band) - Desktop app for harness engineering, loop engineering, graph engineering—and whatever comes next in local AI-agent workflows.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [dreamlonglll/mini-term](https://github.com/dreamlonglll/mini-term) - 一个ai 终端管理工具，支持多项目、多终端布局管理
 - [spacering-net/codeg](https://github.com/spacering-net/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
@@ -1633,6 +1634,7 @@
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [94mashiro/packycode-cost](https://github.com/94mashiro/packycode-cost) - 
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
+- [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
 - [94mashiro/packy-usage-vsce](https://github.com/94mashiro/packy-usage-vsce) - 
 - [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 办公工作台
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
@@ -1678,7 +1680,7 @@
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com) - The marketing and docs site for all TanStack projects
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-first admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed.
 - [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
