@@ -328,6 +328,7 @@
 - [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## agents 
@@ -2204,6 +2205,7 @@
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 - [yangfeng20/ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
