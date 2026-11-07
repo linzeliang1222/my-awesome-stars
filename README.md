@@ -111,7 +111,6 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [lb-li/Synapse](https://github.com/lb-li/Synapse) - 
 - [eternalfree/feishu-doc-export](https://github.com/eternalfree/feishu-doc-export) - 飞书文档导出服务
-- [zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip) - 👑 qqzeng-ip/QZDB 极速IP解析引擎 | Next-gen High-Performance IP Lookup Engine (IPv4 & IPv6). Supports LPM, zero-allocation SDKs (C/Rust/Go/Java/C#/NodeJS/Python/PHP) & DBMS scripts.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
 - [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -198,7 +197,7 @@
 - [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
 - [BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient) - AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
 ## Dockerfile 
@@ -234,7 +233,7 @@
 - [nianzs/sub2api](https://github.com/nianzs/sub2api) - 基于 Sub2API 由多位站长持续维护的独立分支,更加适合中转站长使用, 支持,Leonardo渠道, Kiro 渠道模拟缓存、分组比例调节.
 - [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
 - [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API) - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
-- [YuJunZhiXue/qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
+- [HunYiSage/qwen2API](https://github.com/HunYiSage/qwen2API) - A project converting the Qwen web page to an API.
 - [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [streetartist/zenproxy](https://github.com/streetartist/zenproxy) - 
@@ -505,7 +504,7 @@
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform) - 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；
-- [devlive-community/metaforge](https://github.com/devlive-community/metaforge) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
+- [devlive-community/metaforge](https://github.com/devlive-community/metaforge) - MetaForge is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database,
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
@@ -570,7 +569,6 @@
 - [Blackwindow6/linuxdo-wecom-ui](https://github.com/Blackwindow6/linuxdo-wecom-ui) - Linux DO 企业微信 5.x IM 外观油猴脚本
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 - [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  Vibe Coding 101｜Your First Course For AI Product Builders.
 - [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 - [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
@@ -923,7 +921,6 @@
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [zhangkekf/reading-notes](https://github.com/zhangkekf/reading-notes) - 这里存放我一些读书笔记，比如word、ppt这种文本，浏览它们能使我快速回忆一些重要的知识。
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
@@ -949,6 +946,7 @@
 
 ## PHP 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [flyhunterl/det_v1](https://github.com/flyhunterl/det_v1) - 入门级量化模型:低维分桶的经验+规则形态匹配统计det_v1
 - [lbyxiaolizi/BOLD.](https://github.com/lbyxiaolizi/BOLD.) - A BOLD. Typecho theme
 - [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
@@ -957,6 +955,7 @@
 - [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
 - [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
 - [wangegou/UPAY_PRO](https://github.com/wangegou/UPAY_PRO) - 数字货币支付收款方案
+- [zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip) - 👑 qqzeng-ip/QZDB 极速IP解析引擎 | Next-gen High-Performance IP Lookup Engine (IPv4 & IPv6). Supports LPM, zero-allocation SDKs (C/Rust/Go/Java/C#/NodeJS/Python/PHP) & DBMS scripts.
 - [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [michaelliunsky/niRvana-theme](https://github.com/michaelliunsky/niRvana-theme) - 📖 niRvana · 轻拟物WordPress主题
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
@@ -1008,7 +1007,7 @@
 - [chen-006/meow-llm-detector](https://github.com/chen-006/meow-llm-detector) - 用于检测ai模型是否真实
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台
-- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code & Codex: script, assets, storyboard, image & video pro
+- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧与漫剧制作 skill 合集：小说改剧本、角色设定三视图、分镜脚本、生图/生视频提示词与成片审片，适配 Claude Code / Codex 等 ｜ Open-source agent skills for AI short dramas & motion comics
 - [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
 - [BB0813/foxdesk](https://github.com/BB0813/foxdesk) - Local Camoufox fingerprint browser manager — free, open source, privacy-first
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1210,7 +1209,6 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [qd-today/qd](https://github.com/qd-today/qd) - QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [kingmo888/rustdesk-api-server](https://github.com/kingmo888/rustdesk-api-server) - 基于Django的RustDesk Api&Web Server，除了支持api所有功能，还支持web注册、管理、展示等。已支持到最新1.3.1版本。
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-lin
@@ -1379,6 +1377,7 @@
 
 - [GoodiesHQ/headscale-admin](https://github.com/GoodiesHQ/headscale-admin) - Admin Web Interface for juanfont/headscale
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 
 ## Swift 
@@ -1431,6 +1430,7 @@
 
 ## TypeScript 
 
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) - 开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。
 - [dimthink/PriceAI](https://github.com/dimthink/PriceAI) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 - [J3n5en/EnsoCode](https://github.com/J3n5en/EnsoCode) - One Developer. An Entire Fleet of Autonomous Coding Agents. Local-first desktop agent workbench built on Electron + pi.
@@ -1445,7 +1445,8 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [ProxyShard/ShardBrowser](https://github.com/ProxyShard/ShardBrowser) - Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 156 (WebGL / WebGPU / Client Hints / fonts /
+- [ProxyShard/ShardBrowser](https://github.com/ProxyShard/ShardBrowser) - Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ShardX team (formerly ProxyShard). Engine-level fingerprint spoofing in Chromium 157 (WebGL / WebGPU / Clie
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, 
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [Ravinou/borgwarehouse](https://github.com/Ravinou/borgwarehouse) - A fast and modern WebUI for a BorgBackup's central repository server.
 - [GALIAIS/ShiroMail](https://github.com/GALIAIS/ShiroMail) - Self-hosted temporary email platform with SMTP receiving, verification code extraction, domain management, and API access.
@@ -1455,7 +1456,7 @@
 - [Simprint/simprint](https://github.com/Simprint/simprint) - [指纹浏览器] Simprint is an open-source fingerprint browser and programmable browser workspace designed for isolated environments, automation workflows, proxy orchestration, and browser fingerprint researc
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [BuluBulugege/Free-BAI](https://github.com/BuluBulugege/Free-BAI) - 
-- [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
+- [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 支持 GPT Image、Gemini（Nano Banana）和 Grok 的图片生成与编辑工具
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [heyuqiu2023/CodexPool](https://github.com/heyuqiu2023/CodexPool) - 有啥问题抖音私我，我后面攒起来更新
 - [cita-777/metapi](https://github.com/cita-777/metapi) - 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优
@@ -1781,7 +1782,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
@@ -1816,7 +1817,6 @@
 
 ## Vue 
 
-- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, 
 - [capybara-zy/xiaoye-ai](https://github.com/capybara-zy/xiaoye-ai) - 多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。
 - [liu-ziting/SilverEra](https://github.com/liu-ziting/SilverEra) - 来看看你的月薪在古代值几两银子？
 - [t8y2/unihub](https://github.com/t8y2/unihub) - 🚀 UniHub - 现代化的跨平台工具集应用，支持强大的插件系统 | Modern cross-platform toolkit with powerful plugin system
