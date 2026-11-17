@@ -233,6 +233,7 @@
 - [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - 🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel.
 - [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API) - 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.
 - [YangYuHou/qwen2API](https://github.com/YangYuHou/qwen2API) - A project converting the Qwen web page to an API.
+- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 - [veyliss/ai-localbase](https://github.com/veyliss/ai-localbase) - 一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型。支持mcp服务
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [streetartist/zenproxy](https://github.com/streetartist/zenproxy) - 
@@ -783,7 +784,6 @@
 
 - [GlassHaven/Haven](https://github.com/GlassHaven/Haven) - Free SSH, VNC, RDP & SFTP client for Android
 - [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
-- [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) - 纯 Android 端 Open-AutoGLM 实现，无需电脑
 - [yafoo/pushme](https://github.com/yafoo/pushme) - PushMe，一个简单轻量的Android消息通知客户端！
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - A TV Live Streaming App developed using Tencent X5 WebView
@@ -838,7 +838,6 @@
 
 ## Others 
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
 - [guoguo-tju/agent_java_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
 - [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
@@ -1025,7 +1024,6 @@
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 - [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) - GPT-Image-2 API and Prompts
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
-- [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 - [PlevanTem/Trade-Accumulated-Gold-CN](https://github.com/PlevanTem/Trade-Accumulated-Gold-CN) - 中国积存金 | 京东积存金 短线交易信号捕捉和点位分析 SKILL
 - [AnacondaKC/Aniu](https://github.com/AnacondaKC/Aniu) - 使用东方财富妙想的AI模拟炒股平台
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -1167,7 +1165,7 @@
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [jborg/attic](https://github.com/jborg/attic) - Deduplicating backup program
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
-- [dr34m-cn/taosync](https://github.com/dr34m-cn/taosync) - TaoSync是一个适用于OpenList v3+的自动化同步工具/Sync for OpenList/AList
+- [dr34m-cn/taosync](https://github.com/dr34m-cn/taosync) - TaoSync 是一个支持内置存储引擎与 OpenList/AList v3+ 的自动化同步工具/TaoSync is an automated synchronization tool with a built-in storage engine and support for OpenList/AList v3+.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [ZingLix/immich-geodata-cn](https://github.com/ZingLix/immich-geodata-cn) - 为 Immich 提供中文反向地理编码支持，将照片拍摄地点转换为熟悉的中文名称，并支持通过中文地名搜索照片
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1242,6 +1240,7 @@
 
 ## Rust 
 
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [chrichuang218/codex-windows-cn](https://github.com/chrichuang218/codex-windows-cn) - Codex Windows 中文一键安装、更新、启动与卸载助手
 - [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox) - Personal AI Toolbox
@@ -1261,6 +1260,7 @@
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
 - [mos1128/ccg-gateway](https://github.com/mos1128/ccg-gateway) - 多Agent兼容LLM智能网关与效率工具
 - [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.
+- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
 - [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
 - [ChesterRa/cccc](https://github.com/ChesterRa/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 work
 - [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web) - ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based on CC Switch.
@@ -1275,6 +1275,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
+- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
 - [byebye-code/byebyecode](https://github.com/byebye-code/byebyecode) - 88code的Claude增强statusline，基于CCometixLine开发
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
@@ -1303,6 +1304,7 @@
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1318,7 +1320,7 @@
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps u
 - [SeemSeam/claude_code_autoflow](https://github.com/SeemSeam/claude_code_autoflow) - 
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。
-- [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
+- [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [CallMeR/pve_configuration_notes](https://github.com/CallMeR/pve_configuration_notes) - Proxmox VE 虚拟化平台的安装以及折腾手记。
 - [perfect-panel/ppanel](https://github.com/perfect-panel/ppanel) - 
@@ -1484,7 +1486,6 @@
 - [sese972010/CloudNav-](https://github.com/sese972010/CloudNav-) - 托管在cloudflare上的轻量化导航，可以同步谷歌书签
 - [aabacada/CloudNav-abcd](https://github.com/aabacada/CloudNav-abcd) - 【abcd修改版-个人用】托管在cloudflare上的轻量化导航，可以同步谷歌书签
 - [yml2213/Y-Nav](https://github.com/yml2213/Y-Nav) - 托管在cloudflare上的轻量化导航
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
 - [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [vbgate/opencode-mystatus](https://github.com/vbgate/opencode-mystatus) - Check all your AI subscription quotas in one command. Supports OpenAI, Zhipu AI, and Google Antigravity. More platforms coming soon.
 - [glidea/claude-worker-proxy](https://github.com/glidea/claude-worker-proxy) - Cloudflare Worker; Claude Code; Proxy; Easy to deploy; Claude Code Router; claude-code-router; ccr
@@ -1596,7 +1597,6 @@
 - [magicyan418/resume-builder](https://github.com/magicyan418/resume-builder) - 简历生成器
 - [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、奥运奖牌榜、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [AAEE86/kiro2api-deno](https://github.com/AAEE86/kiro2api-deno) - 
-- [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) - A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
 - [eraycc/cto-new-api](https://github.com/eraycc/cto-new-api) - 超级控制面板版本
 - [TokenRollAI/llmdoc](https://github.com/TokenRollAI/llmdoc) - TokenRoll LLMDoc for Coding Agent
 - [TokenRollAI/fast-mvp](https://github.com/TokenRollAI/fast-mvp) - AI MVP应用的通用template
@@ -1858,7 +1858,6 @@
 - [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题
 - [linzeliang1222/home](https://github.com/linzeliang1222/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
-- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
