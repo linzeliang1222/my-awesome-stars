@@ -272,7 +272,7 @@
 - [Firfr/homebox-zh-cn](https://github.com/Firfr/homebox-zh-cn) - 家庭物品管理系统汉化 源项目 https://github.com/hay-kot/homebox
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
-- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - Agent for Telegram, Discord, Slack, Lark（飞书），dingding（钉钉）, 企业微信, QQ, 微信（wechat）
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
@@ -307,7 +307,7 @@
 - [songtianyi/wechat-go](https://github.com/songtianyi/wechat-go) - go version wechat web api and message framework for building wechat robot
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - go-admin is a Gin + Vue starter kit for admin applications, supporting Element UI, Arco Design, and Ant Design. Features include multi-tenancy, user management, JWT authentication, RBAC, code generati
-- [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+- [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🤖 AI Agentic SQL Review & Database Change Governance Platform for MySQL, PostgreSQL, TiDB, OceanBase & PolarDB
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [storyicon/grbac](https://github.com/storyicon/grbac) - 👮 grbac is a fast, elegant and concise RBAC(role-based access control) framework
@@ -597,7 +597,7 @@
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [yeahhe365/Gemini-Nexus](https://github.com/yeahhe365/Gemini-Nexus) - Gemini Nexus 是一款面向浏览器场景的 AI 助手扩展，集成 Gemini Web、Gemini API 与 OpenAI 兼容接口，支持网页上下文、图像处理、工具调用和 MCP 浏览器控制。
-- [urzeye/tampermonkey-scripts](https://github.com/urzeye/tampermonkey-scripts) - Greasemonkey、Tampermonkey scripts 油猴脚本集：AI chat全能助手、linux.do摸鱼...
+- [urzeye/tampermonkey-scripts](https://github.com/urzeye/tampermonkey-scripts) - Tampermonkey scripts 油猴脚本集：AI chat全能助手、linux.do摸鱼...
 - [caigg188/littleLBook](https://github.com/caigg188/littleLBook) - Linux.do论坛的仿小红书主题
 - [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) - 真正从基础开始学英语 - 自然拼读练习应用
 - [0xsline/StoryGen-Atelier](https://github.com/0xsline/StoryGen-Atelier) - AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-
@@ -771,6 +771,7 @@
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 ## Jupyter Notebook 
@@ -808,7 +809,6 @@
 ## MDX 
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1006,11 +1006,10 @@
 - [chen-006/meow-llm-detector](https://github.com/chen-006/meow-llm-detector) - 用于检测ai模型是否真实
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台
-- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧与漫剧制作 skill 合集：小说改剧本、角色设定三视图、分镜脚本、生图/生视频提示词与成片审片，适配 Claude Code / Codex 等 ｜ Open-source agent skills for AI short dramas & motion comics
+- [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) - AI 短剧与漫剧制作 Agent 技能包：小说改剧本、视觉设定、分镜、生图/生视频提示词与剪辑成片，适配 Claude Code / Codex 等 ｜ Agent skills for AI short dramas & motion comics
 - [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.
 - [BB0813/foxdesk](https://github.com/BB0813/foxdesk) - Local Camoufox fingerprint browser manager — free, open source, privacy-first
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
 - [Tyxy-R/codex-referral-risk-research](https://github.com/Tyxy-R/codex-referral-risk-research) - Research tooling for evaluating SSO referral-flow abuse resistance, quota behavior, and activation telemetry in authorized test environments.
 - [hoolulu/deep-research](https://github.com/hoolulu/deep-research) - Professional deep research report generation Skill — one command, ten minutes, broker-grade deep research / 深度调研报告生成 Skill — 一条命令，十分钟出券商级深度调研报告
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -1020,7 +1019,6 @@
 - [xu-yuanhao/KiroProxy](https://github.com/xu-yuanhao/KiroProxy) - 用于开发者工作流的 Kiro 接入兼容层与请求路由服务Open-source compatibility and routing layer for developer workflows.
 - [canarybyte/veridrop](https://github.com/canarybyte/veridrop) - 在线检测：veridrop.app｜AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。
 - [Wing900/dots2api](https://github.com/Wing900/dots2api) - dots.ai OpenAI compatible API
-- [DanOps-1/Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment) - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 - [Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) - GPT-Image-2 API and Prompts
 - [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
@@ -1083,7 +1081,6 @@
 - [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan) - skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skills. Before installing third-party Skills, use this tool for security review to effectively prevent m
 - [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
 - [nb95276/lada-modal](https://github.com/nb95276/lada-modal) - 
-- [su-kaka/agy2api](https://github.com/su-kaka/agy2api) - 将 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [z-mio/sticker-finder](https://github.com/z-mio/sticker-finder) - 一个Telegram贴纸搜索机器人，节省寻找贴纸的时间
 - [TonnyWong1052/temp-email](https://github.com/TonnyWong1052/temp-email) - This is a Cloudflare-based temporary email service that can automatically generate disposable email addresses, receive emails, and intelligently extract verification codes 这是一个基于 Cloudflare 的临时邮箱服务，能够
@@ -1191,6 +1188,7 @@
 - [FW27623/qqwry](https://github.com/FW27623/qqwry) - 纯真IP数据库，每天从官方授权方式自动抓取最新文件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [okxlin/docker-1panel](https://github.com/okxlin/docker-1panel) - Docker方式运行的1Panel；1Panel running in Docker
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
@@ -1203,6 +1201,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [ZHO-ZHO-ZHO/ComfyUI-Gemini](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini) - Using Gemini in ComfyUI
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
@@ -1296,7 +1295,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -1344,7 +1343,6 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerbox)
 - [linzeliang1222/bash-script](https://github.com/linzeliang1222/bash-script) - 开发中自用的 bash 脚本
-- [okxlin/docker-1panel](https://github.com/okxlin/docker-1panel) - Docker方式运行的1Panel；1Panel running in Docker
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评脚本 —— 更推荐使用无环境依赖的 Go 版本：https://github.com/oneclickvirt/ecs VPS Fusion Monster Server Test Script — we now recommend the Go version (zero external dependencies): https://github.com/oneclic
 - [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
@@ -1356,7 +1354,6 @@
 - [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
 - [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
@@ -1567,7 +1564,7 @@
 - [Saas-Starter-Kit/Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - 🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [sunbooshi/note-to-mp](https://github.com/sunbooshi/note-to-mp) - 
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - The Open Source Qualtrics Alternative
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [dubinc/dub.link](https://github.com/dubinc/dub.link) - The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
